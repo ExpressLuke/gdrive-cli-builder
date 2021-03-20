@@ -126,7 +126,7 @@ This app has not been verified yet by Google in order to use Google Sign In.
 
         <details>
         <summary>
-            <b>Supported platfrom</b>
+            <b>Supported platform</b>
         </summary>
 
         - darwin/386
